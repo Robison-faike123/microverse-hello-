@@ -3,7 +3,7 @@ microverse faike
 
 > Description the project.
 
-the first in  project microverse 
+the first microverse project  
 ## Built With
 
 - Major languages(html-css)
